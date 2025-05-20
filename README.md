@@ -36,7 +36,9 @@ BINANCE_SECRET_KEY=your_secret_key
 ### 3. Uygulamayi BotMainKaldiracli dan calistir
 
 
-Birden Fazla hesap ve coin yonetimi icin thread kullanir.
+
+
+**Birden Fazla hesap ve coin yonetimi icin thread kullanir.**
 
 ## ⚙️ Kurulum
 
