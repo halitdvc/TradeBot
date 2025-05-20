@@ -34,3 +34,4 @@ BINANCE_SECRET_KEY=your_secret_key
 ### 3. Uygulamayi BotMainKaldiracli dan calistir
 
 
+MIT License © halitdvc
