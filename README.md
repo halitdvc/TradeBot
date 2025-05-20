@@ -23,13 +23,13 @@
 
 ```bash
 git clone https://github.com/halitdvc/TradeBot.git
-cd TradeBot
+cd TradeBot```
 
 ### 2. Ortam Degiskenlerini ayarla
 
 ```bash
 BINANCE_API_KEY=your_api_key
-BINANCE_SECRET_KEY=your_secret_key
+BINANCE_SECRET_KEY=your_secret_key```
 
 ### 3. Uygulamayi BotMainKaldiracli dan calistir
 
