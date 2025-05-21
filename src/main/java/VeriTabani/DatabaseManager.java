@@ -35,6 +35,7 @@ public class DatabaseManager {
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         } catch (IOException e) {
+            System.out.println(e);
             throw new RuntimeException(e);
         }
     }
@@ -56,6 +57,7 @@ public class DatabaseManager {
 
             }
         } catch (Exception e) {
+            System.out.println(e);
             throw new RuntimeException(e);
         }
 
