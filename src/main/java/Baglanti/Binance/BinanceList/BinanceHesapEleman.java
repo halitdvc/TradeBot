@@ -30,7 +30,7 @@ public class BinanceHesapEleman {
          //islemci = new AlphaTrendIslemci(binanceHesap,coin);
 
         if (islemci == null )
-        islemci = new EmaSmaCrossIslemci(binanceHesap,coin);
+        islemci = new DipPipIslemci(binanceHesap,coin,riskOrani);
     }
     public BinanceHesapEleman ( int id, String apiKey , String secretKey,String coin , double riskOrani) throws Exception {
         this.id = id;
